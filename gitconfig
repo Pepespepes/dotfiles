@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pepespepes@gmail.com
+	name = Pepe Baena
